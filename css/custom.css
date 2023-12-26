@@ -8,3 +8,9 @@
   */
 
 /*----------- ADD YOUR CUSTOM CSS STYLES BELOW -----------*/
+/* Add this CSS code to your existing stylesheet or in a new custom.css file */
+
+.portfolio-grid .single-item img {
+  height: 320px; /* Adjust the height as needed */
+  object-fit: cover;
+}

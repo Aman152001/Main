@@ -24,6 +24,7 @@
  */
 /*----------- Globals -----------*/
 /* Disable outline */
+
 :focus {
   outline: none;
 }
